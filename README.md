@@ -1,4 +1,5 @@
 About Me
+
 👋 Hello, I'm Vishnujith V!
 I'm a passionate Data Analyst with expertise in Python, Machine Learning, and Artificial Intelligence, driven by the pursuit of solving real-world problems through data. With a strong foundation in statistical analysis, data visualization, and predictive modeling, I aim to create impactful solutions that help businesses thrive.
 
@@ -29,5 +30,7 @@ Machine Learning & Data Analytics (Infosys Springboard)
 
 📫 Let's Connect:
 LinkedIn: linkedin.com/in/vishnujith-v
+
 Email: vishnujithvinodvj@gmail.com
+
 Feel free to explore my GitHub repositories and connect with me to discuss data, AI, or potential collaborations! 🚀
