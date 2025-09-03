@@ -1,48 +1,50 @@
-# About Me  
-## 👋 Hello, I'm Vishnujith V!  
+# 👋 Hello, I'm Vishnujith V  
 
-I'm a passionate **Data Analyst** with expertise in **Python**, **Machine Learning**, and **Artificial Intelligence**, driven by the pursuit of solving real-world problems through data. With a strong foundation in **statistical analysis**, **data visualization**, and **predictive modeling**, I aim to create impactful solutions that help businesses thrive.
+🚀 **Junior Data Mining Engineer | Aspiring Data Engineer | AI & ML Enthusiast**  
+
+I specialize in extracting, cleaning, and delivering structured datasets through advanced **web scraping, Python automation, and SQL**. Passionate about turning raw data into **actionable insights**, I’m building my career path towards **cloud-based data engineering** and **scalable AI solutions**.  
 
 ---
 
 ## 💼 What I Do  
-- Analyze complex datasets to uncover actionable insights 📊  
-- Develop predictive models and machine learning solutions 🤖  
-- Streamline data workflows and improve decision-making processes 🧠  
-- Craft compelling data visualizations to tell meaningful stories 📈  
+- Build and maintain automated **web scraping pipelines** 🕸️  
+- Clean, transform, and validate **large-scale datasets** 📊  
+- Perform **data analysis & visualization** for decision-making 📈  
+- Develop **ML models** for fraud detection, churn prediction, and healthcare insights 🤖  
 
 ---
 
 ## 🌱 Current Focus  
-- Advanced Machine Learning Algorithms & Model Optimization  
-- Building Scalable Data Pipelines for Big Data Processing  
-- Exploring Cutting-Edge AI Techniques  
+- Mastering **Data Engineering tools** (Spark, Kafka, Airflow)  
+- Exploring **Cloud Platforms** (AWS, GCP, Azure)  
+- Enhancing **Web Scraping & Automation** with scalable workflows  
+- Advancing skills in **Applied AI & Predictive Modeling**  
 
 ---
 
-## 🏆 Key Projects  
-- **Customer Churn Prediction**: Developed machine learning models to predict churn risks, enabling a 15% improvement in customer retention strategies.  
-- **Credit Card Fraud Detection**: Built a logistic regression-based solution with an 87% accuracy rate, reducing false positives by 16%.  
-- **Healthcare Risk Prediction**: Created a model for early-stage diabetes prediction, achieving a 90% accuracy rate and improving patient care outcomes.  
-
-Check out my repositories for code samples and project details!  
+## 🏆 Projects I’ve Worked On  
+- 🛒 **E-Commerce Product Web Scraping** – Automated & structured product datasets  
+- 💳 **UPI Fraud Detection** – Machine learning model with 90% accuracy  
+- 📊 **Customer Churn Prediction** – 85% accuracy for retention strategies  
+- ⚡ **Electric Vehicle Market Analysis** – Data-driven adoption trend insights  
+- 🩺 **Early Diabetes Prediction** – 85% accuracy using ML models  
 
 ---
 
 ## 📜 Certifications  
-- **Programming in Python (Meta)**  
+- **Data Analytics & Visualization (Accenture North America – Forage)**  
 - **Foundations: Data, Data Everywhere (Google)**  
 - **Machine Learning & Data Analytics (Infosys Springboard)**  
 
 ---
 
 ## ⚡ Fun Fact  
-"I'm a self-taught data enthusiast who turned a passion for numbers and code into a career path – proof that curiosity and determination can take you far!"  
+“I started my journey as a data enthusiast and turned it into a career — proof that passion + persistence creates endless possibilities.”  
 
 ---
 
-## 📫 Let's Connect  
+## 📫 Let’s Connect  
 - **LinkedIn**: [linkedin.com/in/vishnujith-v](https://www.linkedin.com/in/vishnujith-v)  
 - **Email**: vishnujithvinodvj@gmail.com  
 
-Feel free to explore my GitHub repositories and connect with me to discuss data, AI, or potential collaborations! 🚀  
+💡 Always open to collaborations on **data, AI, and engineering projects**! 🚀  
